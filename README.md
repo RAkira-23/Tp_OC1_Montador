@@ -6,6 +6,7 @@ Para a execução do código será necessária a instalação do interpretador p
 Caso esteja utilizando um sistema operacional baseado em Linux utilize no terminal, caso tenha algum dos gerenciadores de pacotes mais comuns como apt-get ou yum, a linha de ccomando:
 
 sudo apt-get install python3.12 (caso apt-get)
+
 sudo yum install python3.12 (caso yum)
 
 No caso de utilizar outro gerenciador de pacote é recomendado verificar a página de downloads do python.
